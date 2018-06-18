@@ -2,8 +2,8 @@
 Produce a stream of records using avro 
 
 - Use the confluent kafka to start:
-    Kafka Server
-    Zookeeper
-    Schema registry
+    -Kafka Server
+    -Zookeeper
+    -Schema registry
   
   
